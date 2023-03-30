@@ -23,3 +23,5 @@ The code was tested successfully in the environment of Windows 10 + Python 3.8.6
 BTW: If Python pops up a warning “ImportError: No module named requests”, please use “python -m pip install requests” to install requests module, or contact your library application developer to solve it. 
 
 I hope it helps.
+
+Andy
